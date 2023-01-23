@@ -1,1 +1,0 @@
-# SVGR_react
